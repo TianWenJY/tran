@@ -1,0 +1,22 @@
+{
+  "name": "tran",
+  "version": "1.0.0",
+  "description": "",
+  "main": "公共组件库",
+  "scripts": {
+    "test": "Common component library"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TianWenJY/tran.git"
+  },
+  "keywords": [
+    "123456"
+  ],
+  "author": "tianwen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TianWenJY/tran/issues"
+  },
+  "homepage": "https://github.com/TianWenJY/tran#readme"
+}
